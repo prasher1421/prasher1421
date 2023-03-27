@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aryan Prasher
 - 👀 I’m interested in App Development and Machine Learning
-- 🌱 I’m currently work with Kotlin, C++
+- 🌱 I’m currently working with Kotlin, C++
 - 💞️ I’m looking to collaborate on open source Android Projects.
 - 📫 How to reach me aryan1421@gmail.com
 - ( : My LinkedIn handle https://www.linkedin.com/in/aryan-prasher/
