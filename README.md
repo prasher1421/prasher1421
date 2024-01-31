@@ -32,7 +32,7 @@
 
 <hr>
 <p align="center">
-   <img width="35%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasher1421&hide_border=true&theme=tokyonight&layout=compact&hide_border=true" alt="adityasood04" />
+   <img width="35%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasher1421&hide_border=true&theme=tokyonight&layout=compact&hide_border=true" alt="prasher1421" />
   <img width="32%" height="155px" src="https://github-readme-streak-stats.herokuapp.com/?user=prasher1421&hide_border=true&theme=tokyonight" alt="prasher1421"/>
    <img width="32%"height="155px" src="https://github-readme-stats.vercel.app/api?username=prasher1421&show_icons=true&hide_border=true&theme=tokyonight" alt="prasher1421"/>
  
