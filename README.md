@@ -41,8 +41,6 @@
 </p>
 <hr>
 
-[![Aryan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=prasher1421&hide_border=true&theme=tokyo-night)](https://github.com/prasher1421)
-
        
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%"/>
