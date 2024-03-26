@@ -2,7 +2,7 @@
 ![cropped](https://user-images.githubusercontent.com/98453503/230014488-4ff614d7-a507-47c6-bdf7-ecf35cc1691f.gif)
 <h1 align="center">I'm Aryan Prasher</h1>
 <h4 align="center">Computer Science and Engineering student at NIT Hamirpur</h3>
-<h4 align="center"> I’m currently working on Android Development</h3>
+<h4 align="center"> I’m currently working on Backend Development with Go and Android Dev with Kotlin</h3>
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
